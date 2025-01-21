@@ -14,7 +14,7 @@ Luego de la creación de los datos, me surgieron estas preguntas:
 
 ¿Cuales son las tres canchas mas populares?
 
-Las consultas y analisis lo hice con MySQL Workbench, te comparto el enlace:
+Las consultas y analisis lo hice con MySQL Workbench, te comparto el enlace: https://github.com/FileRojas/ProyectoSQL_pingpong/blob/main/Proyecto_pingpong.sql
 
 La visualización final de estas consultas fue realizada con Power BI, 
-te dejo un PDF con el resultado final: 
+te dejo un PDF con el resultado final: https://github.com/FileRojas/ProyectoSQL_pingpong/blob/main/Proyecto_pingpong.pdf
