@@ -1,6 +1,6 @@
 ### ¡Bienvenidos a mi proyecto!
                                                        
-##### Este proyecto es un análisis sobre torneos de Ping Pong, incluye la creación de una base de datos SQL ficticia, que contiene datos relacionados con jugadores, sedes, copas ganadas, etc..
+##### En este proyecto haremos un análisis sobre torneos de Ping Pong, incluye la creación de una base de datos SQL ficticia, que contiene datos relacionados con jugadores, sedes, copas ganadas, etc..
 
 Luego de la creación de los datos, me surgieron estas preguntas:
 
@@ -12,7 +12,7 @@ Luego de la creación de los datos, me surgieron estas preguntas:
 
 ¿Cuantas veces se jugo la copa Regional, la copa mundial, etc..? 
 
-¿Cuales son las tres canchas mas populares?
+¿Cuales son las tres canchas mas usadas como sedes?
 
 Las consultas y analisis lo hice con MySQL Workbench, te comparto el enlace: https://github.com/FileRojas/ProyectoSQL_pingpong/blob/main/Proyecto_pingpong.sql
 
