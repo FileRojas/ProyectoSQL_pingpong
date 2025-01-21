@@ -14,7 +14,7 @@ Luego de la creación de los datos, me surgieron estas preguntas:
 
 ¿Cuales son las tres canchas mas usadas como sedes?
 
-La creación y consultas lo hice con MySQL Workbench, te comparto el enlace: https://github.com/FileRojas/ProyectoSQL_pingpong/blob/main/Proyecto_pingpong.sql
+La creación y consultas a la base de datos lo hice con MySQL Workbench, te comparto el enlace: https://github.com/FileRojas/ProyectoSQL_pingpong/blob/main/Proyecto_pingpong.sql
 
 La visualización final de estas consultas fue realizada con Power BI, 
 te dejo un PDF con el resultado final: https://github.com/FileRojas/ProyectoSQL_pingpong/blob/main/Proyecto_pingpong.pdf
