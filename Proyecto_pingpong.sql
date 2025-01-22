@@ -38,7 +38,7 @@ court_id INT NOT NULL,
 win_date DATE NOT NULL);
 
 /* Ahora para una forma mas comoda, importaremos los datos para las tablas 
-   desde archivos CSV previamente creados, para eso utilizaremos la opcion de 
+   desde archivos CSV previamente creados, para eso utilizaremos la opción de 
    Table Data Import Wizard de MYSSQL Workbench*/
    
 # Editamos las tablas para fijar las claves foraneas: 
@@ -50,7 +50,7 @@ ADD CONSTRAINT FK_PLAYERS FOREIGN KEY (player_id) REFERENCES players(id),
 ADD CONSTRAINT FK_CUPS FOREIGN KEY (cup_id) REFERENCES cups(cup_id),
 ADD CONSTRAINT FK_COURTS FOREIGN KEY (court_id) REFERENCES courts(court_id);
 
-# Ahora vamos a realizar un analisis de datos sobre los torneos a través de consultas:
+# Ahora vamos a realizar un analisis sobre los torneos a través de consultas:
 
 # ¿Cantidad de copas por jugador?
 SELECT p.id, CONCAT(p.first_name, ' ', p.last_name) nombre_completo, 
