@@ -18,3 +18,5 @@ La creación y consultas a la base de datos lo hice con MySQL Workbench, te comp
 
 La visualización final de estas consultas fue realizada con Power BI, 
 te dejo un PDF con el resultado final: https://github.com/FileRojas/ProyectoSQL_pingpong/blob/main/Proyecto_pingpong.pdf
+
+Por ultimo dejo un archivo PNG con el diagrama entidad-relación de mi base de datos: https://github.com/FileRojas/ProyectoSQL_pingpong/blob/main/Diagrama_pingpong.png
