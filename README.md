@@ -16,9 +16,6 @@ En este proyecto haremos un análisis sobre torneos de Ping Pong, incluye la cre
 
 La creación y consultas a la base de datos lo hice con MySQL Workbench, te comparto el enlace: https://github.com/FileRojas/ProyectoSQL_pingpong/blob/main/Proyecto_pingpong.sql
 
-La visualización final de estas consultas fue realizada con Power BI, 
-te dejo un PDF con el resultado final: https://github.com/FileRojas/ProyectoSQL_pingpong/blob/main/Proyecto_pingpong.pdf
-
 Por ultimo, dejo un archivo PNG con el diagrama entidad-relación de mi base de datos: https://github.com/FileRojas/ProyectoSQL_pingpong/blob/main/Diagrama_pingpong.png
 
 ### ¡Muchas gracias!
